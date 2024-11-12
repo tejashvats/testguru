@@ -1,0 +1,207 @@
+2018-10-10 09:39:39,115 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:39:39,117 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:39:39,117 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Order paper voucher Deal via ATM       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:39:39,117 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:39:39,117 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:39:39,121 INFO  [LogUtils] sending POST with bodyData: {"username":"user1@yopmail.com","password":"123456"} and api: /api/authenticate/mobile 
+2018-10-10 09:39:39,690 INFO  [LogUtils] Response Code : 200 
+2018-10-10 09:39:47,846 INFO  [LogUtils] sending POST with bodyData: {"username":"user1@yopmail.com","password":"123456"} and api: /api/authenticate/mobile 
+2018-10-10 09:39:48,182 INFO  [LogUtils] Response Code : 200 
+2018-10-10 09:39:48,183 INFO  [LogUtils] sending GET with api: /orderservices2/api/shop-carts/my-shop-cart 
+2018-10-10 09:39:48,227 INFO  [LogUtils] Response code is: 200 
+2018-10-10 09:39:48,230 INFO  [LogUtils] sending GET with api: /orderservices2/api/shop-carts/my-shop-cart 
+2018-10-10 09:39:48,270 INFO  [LogUtils] Response code is: 200 
+2018-10-10 09:39:48,272 INFO  [LogUtils] sending DELETE with api: /orderservices2/api/shop-carts/shop-cart-item/1334.0 
+2018-10-10 09:39:48,350 INFO  [LogUtils] Response Code : 200 
+2018-10-10 09:39:48,350 INFO  [LogUtils] sending GET with api: /orderservices2/api/shop-carts/my-shop-cart-info 
+2018-10-10 09:39:48,401 INFO  [LogUtils] Response code is: 200 
+2018-10-10 09:39:48,637 INFO  [LogUtils] sending POST with bodyData: {"itemId":1332,"quantity":4} and api: /orderservices2/api/shop-carts/add-to-cart 
+2018-10-10 09:39:49,119 INFO  [LogUtils] Response Code : 200 
+2018-10-10 09:39:49,120 INFO  [LogUtils] Click shopping cart item!!! 
+2018-10-10 09:39:51,243 INFO  [LogUtils] Click check out button!!! 
+2018-10-10 09:39:52,504 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:39:52,504 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:39:52,504 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Re-check check out button does not exist!!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:39:52,504 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:39:52,505 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:07,727 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:07,728 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:07,728 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Verify check out screen is shown!!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:40:07,728 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:07,728 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:07,778 INFO  [LogUtils] Payment method element: xpath::://app-checkout-step-1//div[@class='panel-cash']//span[@beetranslate='beecow.newOrder.label.cod'] 
+2018-10-10 09:40:12,990 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:12,990 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:12,990 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Input name user       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:40:12,990 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:12,990 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:13,196 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:13,197 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:13,197 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Input phone number       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:40:13,197 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:13,197 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:13,371 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:13,371 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:13,371 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Input address       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:40:13,371 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:13,372 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:14,374 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:14,374 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:14,374 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Select city is: random !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:40:14,374 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:14,374 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:25,554 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:25,554 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:25,554 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Select district is: random !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:40:25,554 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:25,554 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:36,549 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:36,554 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:36,554 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Click next button !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:40:36,554 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:36,555 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:40:43,774 INFO  [LogUtils] Verify delivery method is shown!!! 
+2018-10-10 09:40:44,028 INFO  [LogUtils] sending GET with api: /orderservices2/api/check-free-ship-user-per-day 
+2018-10-10 09:40:44,103 INFO  [LogUtils] Response code is: 200 
+2018-10-10 09:41:05,371 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:05,371 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:05,371 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Click next button !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:41:05,371 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:05,371 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:12,571 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:12,571 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:12,571 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Verify Confirm page is shown!!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:41:12,571 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:12,571 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:12,624 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:12,624 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:12,624 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Click next button !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:41:12,624 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:12,624 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:22,839 INFO  [LogUtils] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-10 09:41:22,840 INFO  [LogUtils] X 
+2018-10-10 09:41:22,840 INFO  [LogUtils] X 
+2018-10-10 09:41:22,840 INFO  [LogUtils] X 
+2018-10-10 09:41:22,840 INFO  [LogUtils] X 
+2018-10-10 09:41:42,113 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:42,117 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:42,117 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Order paper voucher Deal via COD       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:41:42,117 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:42,117 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:42,118 INFO  [LogUtils] sending POST with bodyData: {"username":"user1@yopmail.com","password":"123456"} and api: /api/authenticate/mobile 
+2018-10-10 09:41:42,484 INFO  [LogUtils] Response Code : 200 
+2018-10-10 09:41:53,496 INFO  [LogUtils] sending POST with bodyData: {"username":"user1@yopmail.com","password":"123456"} and api: /api/authenticate/mobile 
+2018-10-10 09:41:53,863 INFO  [LogUtils] Response Code : 200 
+2018-10-10 09:41:53,864 INFO  [LogUtils] sending GET with api: /orderservices2/api/shop-carts/my-shop-cart 
+2018-10-10 09:41:53,892 INFO  [LogUtils] Response code is: 200 
+2018-10-10 09:41:53,893 INFO  [LogUtils] sending GET with api: /orderservices2/api/shop-carts/my-shop-cart 
+2018-10-10 09:41:53,947 INFO  [LogUtils] Response code is: 200 
+2018-10-10 09:41:53,948 INFO  [LogUtils] sending GET with api: /orderservices2/api/shop-carts/my-shop-cart-info 
+2018-10-10 09:41:53,975 INFO  [LogUtils] Response code is: 200 
+2018-10-10 09:41:54,113 INFO  [LogUtils] sending POST with bodyData: {"itemId":1377,"quantity":7} and api: /orderservices2/api/shop-carts/add-to-cart 
+2018-10-10 09:41:54,307 INFO  [LogUtils] Response Code : 200 
+2018-10-10 09:41:54,307 INFO  [LogUtils] Click shopping cart item!!! 
+2018-10-10 09:41:56,045 INFO  [LogUtils] Click check out button!!! 
+2018-10-10 09:41:57,183 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:57,184 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:57,184 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Re-check check out button does not exist!!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:41:57,184 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:41:57,184 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:12,367 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:12,368 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:12,369 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Verify check out screen is shown!!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:12,370 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:12,371 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:12,442 INFO  [LogUtils] Payment method element: xpath::://app-checkout-step-1//div[@class='panel-atm']//div[@id='atm'] 
+2018-10-10 09:42:12,678 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:12,678 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:12,678 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Input name user       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:12,678 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:12,678 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:13,243 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:13,243 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:13,243 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Input phone number       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:13,243 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:13,243 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:13,455 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:13,455 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:13,456 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Input address       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:13,456 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:13,456 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:14,131 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:14,131 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:14,131 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Select city is: random !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:14,131 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:14,131 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:15,073 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:15,073 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:15,073 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Select district is: random !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:15,073 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:15,073 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:16,163 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:16,163 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:16,163 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Click next button !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:16,163 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:16,163 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:18,288 INFO  [LogUtils] Verify delivery method is shown!!! 
+2018-10-10 09:42:18,581 INFO  [LogUtils] sending GET with api: /orderservices2/api/check-free-ship-user-per-day 
+2018-10-10 09:42:18,638 INFO  [LogUtils] Response code is: 200 
+2018-10-10 09:42:19,113 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:19,113 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:19,113 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Click next button !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:19,113 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:19,113 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:21,269 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:21,269 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:21,269 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Verify Confirm page is shown!!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:21,269 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:21,269 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:21,317 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:21,317 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:21,317 INFO  [LogUtils] $$$$$$$$$$$$$$$$$$$$$                 Click next button !!!       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-10 09:42:21,317 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:21,317 INFO  [LogUtils] **************************************************************************************** 
+2018-10-10 09:42:38,980 INFO  [LogUtils] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-10-10 09:42:38,981 INFO  [LogUtils] X 
+2018-10-10 09:42:38,981 INFO  [LogUtils] X 
+2018-10-10 09:42:38,982 INFO  [LogUtils] X 
+2018-10-10 09:42:38,982 INFO  [LogUtils] X 
+2018-10-10 09:44:32,597 ERROR [LogUtils] Class Helper | Method findElement | Exception desc : no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'English')]"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'erit-mac.local', ip: 'fe80:0:0:0:c93:642e:9bbe:b18d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/4_/mntxtm9n3p9...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: f522d1722de6079b36ce70436c7cce5c
+*** Element info: {Using=xpath, value=//a[contains(text(),'English')]} 
+ Unable found locator: xpath::://a[contains(text(),'English')] 
+2018-10-10 09:44:54,464 ERROR [LogUtils] Class Helper | Method findElement | Exception desc : no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'English')]"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'erit-mac.local', ip: 'fe80:0:0:0:c93:642e:9bbe:b18d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565386 (45a059dc425e08..., userDataDir: /var/folders/4_/mntxtm9n3p9...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 0b77ee09aceed92a2cd0328ed43babb7
+*** Element info: {Using=xpath, value=//a[contains(text(),'English')]} 
+ Unable found locator: xpath::://a[contains(text(),'English')] 
+2018-10-10 09:44:54,473 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
+2018-10-10 09:44:54,478 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
+2018-10-10 09:44:54,482 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
+2018-10-10 09:44:54,486 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
+2018-10-10 09:44:54,496 INFO  [LogUtils] sending POST with bodyData: {"password": "123456","rememberMe": true,"username": "userautodeal@yopmail.com"} and api: /api/authenticate/mobile 
+2018-10-10 09:44:54,538 INFO  [LogUtils] Response Code : 502 
+2018-10-10 09:44:54,538 ERROR [LogUtils] Class HttpSendRequest | Method sendingPostRequest | Exception desc : Server returned HTTP response code: 502 for URL: https://api.mediastep.ca/api/authenticate/mobile
++++++++Body data++++++++
+{"password": "123456","rememberMe": true,"username": "userautodeal@yopmail.com"} 
+2018-10-10 09:44:54,543 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
+2018-10-10 09:44:54,548 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
+2018-10-10 09:44:54,555 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
+2018-10-10 09:44:54,559 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
+2018-10-10 09:44:54,572 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
+2018-10-10 09:44:54,615 ERROR [LogUtils] Class ExcelUtils | Method getRowCount | Exception desc : null 
